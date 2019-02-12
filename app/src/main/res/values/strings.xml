@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarWarsExplorer</string>
+    <string name="editTextHint">Luke Skywalker</string>
+    <string name="text_view_info">Information about this Being</string>
+</resources>
